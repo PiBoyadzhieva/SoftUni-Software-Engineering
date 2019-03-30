@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchPhoneNumber\bin\Debug\netcoreapp2.2\MatchPhoneNumber.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchPhoneNumber\bin\Debug\netcoreapp2.2\MatchPhoneNumber.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchPhoneNumber\bin\Debug\netcoreapp2.2\MatchPhoneNumber.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchPhoneNumber\bin\Debug\netcoreapp2.2\MatchPhoneNumber.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchPhoneNumber\bin\Debug\netcoreapp2.2\MatchPhoneNumber.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchPhoneNumber\obj\Debug\netcoreapp2.2\MatchPhoneNumber.pdb

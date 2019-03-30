@@ -1,0 +1,10 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\TextFilter\bin\Debug\netcoreapp2.2\TextFilter.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\TextFilter\bin\Debug\netcoreapp2.2\TextFilter.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\TextFilter\bin\Debug\netcoreapp2.2\TextFilter.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\TextFilter\bin\Debug\netcoreapp2.2\TextFilter.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\TextFilter\bin\Debug\netcoreapp2.2\TextFilter.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\TextFilter\obj\Debug\netcoreapp2.2\TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\TextFilter\obj\Debug\netcoreapp2.2\TextFilter.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\TextFilter\obj\Debug\netcoreapp2.2\TextFilter.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\TextFilter\obj\Debug\netcoreapp2.2\TextFilter.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\TextFilter\obj\Debug\netcoreapp2.2\TextFilter.pdb

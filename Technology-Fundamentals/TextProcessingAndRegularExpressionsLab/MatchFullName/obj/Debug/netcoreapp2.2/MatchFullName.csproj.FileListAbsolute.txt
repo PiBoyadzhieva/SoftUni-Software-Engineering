@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchFullName\bin\Debug\netcoreapp2.2\MatchFullName.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchFullName\bin\Debug\netcoreapp2.2\MatchFullName.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchFullName\bin\Debug\netcoreapp2.2\MatchFullName.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchFullName\bin\Debug\netcoreapp2.2\MatchFullName.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchFullName\bin\Debug\netcoreapp2.2\MatchFullName.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchFullName\obj\Debug\netcoreapp2.2\MatchFullName.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchFullName\obj\Debug\netcoreapp2.2\MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchFullName\obj\Debug\netcoreapp2.2\MatchFullName.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchFullName\obj\Debug\netcoreapp2.2\MatchFullName.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchFullName\obj\Debug\netcoreapp2.2\MatchFullName.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchFullName\obj\Debug\netcoreapp2.2\MatchFullName.pdb

@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\RepeatStrings\bin\Debug\netcoreapp2.2\RepeatStrings.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\RepeatStrings\bin\Debug\netcoreapp2.2\RepeatStrings.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\RepeatStrings\bin\Debug\netcoreapp2.2\RepeatStrings.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\RepeatStrings\bin\Debug\netcoreapp2.2\RepeatStrings.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\RepeatStrings\bin\Debug\netcoreapp2.2\RepeatStrings.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\RepeatStrings\obj\Debug\netcoreapp2.2\RepeatStrings.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\RepeatStrings\obj\Debug\netcoreapp2.2\RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\RepeatStrings\obj\Debug\netcoreapp2.2\RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\RepeatStrings\obj\Debug\netcoreapp2.2\RepeatStrings.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\RepeatStrings\obj\Debug\netcoreapp2.2\RepeatStrings.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\RepeatStrings\obj\Debug\netcoreapp2.2\RepeatStrings.pdb

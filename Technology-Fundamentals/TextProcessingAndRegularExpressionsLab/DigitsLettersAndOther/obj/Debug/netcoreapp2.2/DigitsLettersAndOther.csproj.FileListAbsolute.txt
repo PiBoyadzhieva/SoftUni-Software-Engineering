@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\DigitsLettersAndOther\bin\Debug\netcoreapp2.2\DigitsLettersAndOther.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\DigitsLettersAndOther\bin\Debug\netcoreapp2.2\DigitsLettersAndOther.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\DigitsLettersAndOther\bin\Debug\netcoreapp2.2\DigitsLettersAndOther.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\DigitsLettersAndOther\bin\Debug\netcoreapp2.2\DigitsLettersAndOther.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\DigitsLettersAndOther\bin\Debug\netcoreapp2.2\DigitsLettersAndOther.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\DigitsLettersAndOther\obj\Debug\netcoreapp2.2\DigitsLettersAndOther.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\DigitsLettersAndOther\obj\Debug\netcoreapp2.2\DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\DigitsLettersAndOther\obj\Debug\netcoreapp2.2\DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\DigitsLettersAndOther\obj\Debug\netcoreapp2.2\DigitsLettersAndOther.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\DigitsLettersAndOther\obj\Debug\netcoreapp2.2\DigitsLettersAndOther.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\DigitsLettersAndOther\obj\Debug\netcoreapp2.2\DigitsLettersAndOther.pdb

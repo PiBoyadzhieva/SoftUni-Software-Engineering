@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\Substring\bin\Debug\netcoreapp2.2\Substring.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\Substring\bin\Debug\netcoreapp2.2\Substring.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\Substring\bin\Debug\netcoreapp2.2\Substring.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\Substring\bin\Debug\netcoreapp2.2\Substring.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\Substring\bin\Debug\netcoreapp2.2\Substring.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\Substring\obj\Debug\netcoreapp2.2\Substring.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\Substring\obj\Debug\netcoreapp2.2\Substring.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\Substring\obj\Debug\netcoreapp2.2\Substring.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\Substring\obj\Debug\netcoreapp2.2\Substring.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\Substring\obj\Debug\netcoreapp2.2\Substring.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\Substring\obj\Debug\netcoreapp2.2\Substring.pdb

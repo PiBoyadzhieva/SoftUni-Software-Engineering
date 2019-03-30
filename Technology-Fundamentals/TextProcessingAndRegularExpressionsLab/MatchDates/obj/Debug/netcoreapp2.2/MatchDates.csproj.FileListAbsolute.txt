@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchDates\bin\Debug\netcoreapp2.2\MatchDates.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchDates\bin\Debug\netcoreapp2.2\MatchDates.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchDates\bin\Debug\netcoreapp2.2\MatchDates.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchDates\bin\Debug\netcoreapp2.2\MatchDates.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchDates\bin\Debug\netcoreapp2.2\MatchDates.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchDates\obj\Debug\netcoreapp2.2\MatchDates.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchDates\obj\Debug\netcoreapp2.2\MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchDates\obj\Debug\netcoreapp2.2\MatchDates.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchDates\obj\Debug\netcoreapp2.2\MatchDates.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchDates\obj\Debug\netcoreapp2.2\MatchDates.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsLab\MatchDates\obj\Debug\netcoreapp2.2\MatchDates.pdb
