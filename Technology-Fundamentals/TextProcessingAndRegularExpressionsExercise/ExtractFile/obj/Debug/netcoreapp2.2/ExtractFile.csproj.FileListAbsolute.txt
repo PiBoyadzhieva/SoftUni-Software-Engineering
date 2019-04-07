@@ -1,0 +1,21 @@
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ExtractFile\bin\Debug\netcoreapp2.2\ExtractFile.deps.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ExtractFile\bin\Debug\netcoreapp2.2\ExtractFile.runtimeconfig.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ExtractFile\bin\Debug\netcoreapp2.2\ExtractFile.runtimeconfig.dev.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ExtractFile\bin\Debug\netcoreapp2.2\ExtractFile.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ExtractFile\bin\Debug\netcoreapp2.2\ExtractFile.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ExtractFile\obj\Debug\netcoreapp2.2\ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ExtractFile\obj\Debug\netcoreapp2.2\ExtractFile.AssemblyInfoInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ExtractFile\obj\Debug\netcoreapp2.2\ExtractFile.AssemblyInfo.cs
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ExtractFile\obj\Debug\netcoreapp2.2\ExtractFile.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ExtractFile\obj\Debug\netcoreapp2.2\ExtractFile.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\ExtractFile\bin\Debug\netcoreapp2.2\ExtractFile.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\ExtractFile\bin\Debug\netcoreapp2.2\ExtractFile.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\ExtractFile\bin\Debug\netcoreapp2.2\ExtractFile.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\ExtractFile\bin\Debug\netcoreapp2.2\ExtractFile.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\ExtractFile\bin\Debug\netcoreapp2.2\ExtractFile.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\ExtractFile\obj\Debug\netcoreapp2.2\ExtractFile.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\ExtractFile\obj\Debug\netcoreapp2.2\ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\ExtractFile\obj\Debug\netcoreapp2.2\ExtractFile.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\ExtractFile\obj\Debug\netcoreapp2.2\ExtractFile.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\ExtractFile\obj\Debug\netcoreapp2.2\ExtractFile.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\ExtractFile\obj\Debug\netcoreapp2.2\ExtractFile.pdb

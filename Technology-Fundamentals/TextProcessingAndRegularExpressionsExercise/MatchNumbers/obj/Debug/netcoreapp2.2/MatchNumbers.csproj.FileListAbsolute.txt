@@ -1,0 +1,11 @@
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MatchNumbers\obj\Debug\netcoreapp2.2\MatchNumbers.csprojAssemblyReference.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MatchNumbers\obj\Debug\netcoreapp2.2\MatchNumbers.csproj.CoreCompileInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MatchNumbers\obj\Debug\netcoreapp2.2\MatchNumbers.AssemblyInfoInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MatchNumbers\obj\Debug\netcoreapp2.2\MatchNumbers.AssemblyInfo.cs
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MatchNumbers\bin\Debug\netcoreapp2.2\MatchNumbers.deps.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MatchNumbers\bin\Debug\netcoreapp2.2\MatchNumbers.runtimeconfig.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MatchNumbers\bin\Debug\netcoreapp2.2\MatchNumbers.runtimeconfig.dev.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MatchNumbers\bin\Debug\netcoreapp2.2\MatchNumbers.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MatchNumbers\bin\Debug\netcoreapp2.2\MatchNumbers.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MatchNumbers\obj\Debug\netcoreapp2.2\MatchNumbers.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MatchNumbers\obj\Debug\netcoreapp2.2\MatchNumbers.pdb

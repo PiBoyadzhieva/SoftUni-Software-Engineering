@@ -1,0 +1,11 @@
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StringExplosion\bin\Debug\netcoreapp2.2\StringExplosion.deps.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StringExplosion\bin\Debug\netcoreapp2.2\StringExplosion.runtimeconfig.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StringExplosion\bin\Debug\netcoreapp2.2\StringExplosion.runtimeconfig.dev.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StringExplosion\bin\Debug\netcoreapp2.2\StringExplosion.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StringExplosion\bin\Debug\netcoreapp2.2\StringExplosion.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StringExplosion\obj\Debug\netcoreapp2.2\StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StringExplosion\obj\Debug\netcoreapp2.2\StringExplosion.AssemblyInfoInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StringExplosion\obj\Debug\netcoreapp2.2\StringExplosion.AssemblyInfo.cs
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StringExplosion\obj\Debug\netcoreapp2.2\StringExplosion.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StringExplosion\obj\Debug\netcoreapp2.2\StringExplosion.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StringExplosion\obj\Debug\netcoreapp2.2\StringExplosion.csprojAssemblyReference.cache

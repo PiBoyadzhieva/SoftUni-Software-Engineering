@@ -1,0 +1,11 @@
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StarEnigma\bin\Debug\netcoreapp2.2\StarEnigma.deps.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StarEnigma\bin\Debug\netcoreapp2.2\StarEnigma.runtimeconfig.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StarEnigma\bin\Debug\netcoreapp2.2\StarEnigma.runtimeconfig.dev.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StarEnigma\bin\Debug\netcoreapp2.2\StarEnigma.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StarEnigma\bin\Debug\netcoreapp2.2\StarEnigma.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StarEnigma\obj\Debug\netcoreapp2.2\StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StarEnigma\obj\Debug\netcoreapp2.2\StarEnigma.AssemblyInfoInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StarEnigma\obj\Debug\netcoreapp2.2\StarEnigma.AssemblyInfo.cs
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StarEnigma\obj\Debug\netcoreapp2.2\StarEnigma.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StarEnigma\obj\Debug\netcoreapp2.2\StarEnigma.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\StarEnigma\obj\Debug\netcoreapp2.2\StarEnigma.csprojAssemblyReference.cache

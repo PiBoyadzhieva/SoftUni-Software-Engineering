@@ -1,0 +1,10 @@
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ReplaceRepeatingChars\bin\Debug\netcoreapp2.2\ReplaceRepeatingChars.deps.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ReplaceRepeatingChars\bin\Debug\netcoreapp2.2\ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ReplaceRepeatingChars\bin\Debug\netcoreapp2.2\ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ReplaceRepeatingChars\bin\Debug\netcoreapp2.2\ReplaceRepeatingChars.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ReplaceRepeatingChars\bin\Debug\netcoreapp2.2\ReplaceRepeatingChars.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ReplaceRepeatingChars\obj\Debug\netcoreapp2.2\ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ReplaceRepeatingChars\obj\Debug\netcoreapp2.2\ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ReplaceRepeatingChars\obj\Debug\netcoreapp2.2\ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ReplaceRepeatingChars\obj\Debug\netcoreapp2.2\ReplaceRepeatingChars.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\ReplaceRepeatingChars\obj\Debug\netcoreapp2.2\ReplaceRepeatingChars.pdb

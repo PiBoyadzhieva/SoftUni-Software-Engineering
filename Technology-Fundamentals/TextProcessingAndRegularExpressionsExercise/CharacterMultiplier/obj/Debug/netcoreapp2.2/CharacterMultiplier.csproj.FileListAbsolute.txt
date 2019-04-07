@@ -1,0 +1,11 @@
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CharacterMultiplier\bin\Debug\netcoreapp2.2\CharacterMultiplier.deps.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CharacterMultiplier\bin\Debug\netcoreapp2.2\CharacterMultiplier.runtimeconfig.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CharacterMultiplier\bin\Debug\netcoreapp2.2\CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CharacterMultiplier\bin\Debug\netcoreapp2.2\CharacterMultiplier.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CharacterMultiplier\bin\Debug\netcoreapp2.2\CharacterMultiplier.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CharacterMultiplier\obj\Debug\netcoreapp2.2\CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CharacterMultiplier\obj\Debug\netcoreapp2.2\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CharacterMultiplier\obj\Debug\netcoreapp2.2\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CharacterMultiplier\obj\Debug\netcoreapp2.2\CharacterMultiplier.AssemblyInfo.cs
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CharacterMultiplier\obj\Debug\netcoreapp2.2\CharacterMultiplier.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CharacterMultiplier\obj\Debug\netcoreapp2.2\CharacterMultiplier.pdb

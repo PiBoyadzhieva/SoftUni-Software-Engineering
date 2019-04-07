@@ -1,0 +1,11 @@
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MultiplyBigNumber\bin\Debug\netcoreapp2.2\MultiplyBigNumber.deps.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MultiplyBigNumber\bin\Debug\netcoreapp2.2\MultiplyBigNumber.runtimeconfig.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MultiplyBigNumber\bin\Debug\netcoreapp2.2\MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MultiplyBigNumber\bin\Debug\netcoreapp2.2\MultiplyBigNumber.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MultiplyBigNumber\bin\Debug\netcoreapp2.2\MultiplyBigNumber.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MultiplyBigNumber\obj\Debug\netcoreapp2.2\MultiplyBigNumber.csprojAssemblyReference.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MultiplyBigNumber\obj\Debug\netcoreapp2.2\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MultiplyBigNumber\obj\Debug\netcoreapp2.2\MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MultiplyBigNumber\obj\Debug\netcoreapp2.2\MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MultiplyBigNumber\obj\Debug\netcoreapp2.2\MultiplyBigNumber.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\MultiplyBigNumber\obj\Debug\netcoreapp2.2\MultiplyBigNumber.pdb

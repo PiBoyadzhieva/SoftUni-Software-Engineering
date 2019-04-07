@@ -1,0 +1,11 @@
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\SoftUniBarIncome\bin\Debug\netcoreapp2.2\SoftUniBarIncome.deps.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\SoftUniBarIncome\bin\Debug\netcoreapp2.2\SoftUniBarIncome.runtimeconfig.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\SoftUniBarIncome\bin\Debug\netcoreapp2.2\SoftUniBarIncome.runtimeconfig.dev.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\SoftUniBarIncome\bin\Debug\netcoreapp2.2\SoftUniBarIncome.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\SoftUniBarIncome\bin\Debug\netcoreapp2.2\SoftUniBarIncome.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\SoftUniBarIncome\obj\Debug\netcoreapp2.2\SoftUniBarIncome.csprojAssemblyReference.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\SoftUniBarIncome\obj\Debug\netcoreapp2.2\SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\SoftUniBarIncome\obj\Debug\netcoreapp2.2\SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\SoftUniBarIncome\obj\Debug\netcoreapp2.2\SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\SoftUniBarIncome\obj\Debug\netcoreapp2.2\SoftUniBarIncome.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\SoftUniBarIncome\obj\Debug\netcoreapp2.2\SoftUniBarIncome.pdb

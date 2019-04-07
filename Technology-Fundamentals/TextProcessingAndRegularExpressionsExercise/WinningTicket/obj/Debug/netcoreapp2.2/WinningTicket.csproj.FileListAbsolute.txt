@@ -1,0 +1,11 @@
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\WinningTicket\bin\Debug\netcoreapp2.2\WinningTicket.deps.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\WinningTicket\bin\Debug\netcoreapp2.2\WinningTicket.runtimeconfig.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\WinningTicket\bin\Debug\netcoreapp2.2\WinningTicket.runtimeconfig.dev.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\WinningTicket\bin\Debug\netcoreapp2.2\WinningTicket.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\WinningTicket\bin\Debug\netcoreapp2.2\WinningTicket.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\WinningTicket\obj\Debug\netcoreapp2.2\WinningTicket.csprojAssemblyReference.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\WinningTicket\obj\Debug\netcoreapp2.2\WinningTicket.csproj.CoreCompileInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\WinningTicket\obj\Debug\netcoreapp2.2\WinningTicket.AssemblyInfoInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\WinningTicket\obj\Debug\netcoreapp2.2\WinningTicket.AssemblyInfo.cs
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\WinningTicket\obj\Debug\netcoreapp2.2\WinningTicket.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\WinningTicket\obj\Debug\netcoreapp2.2\WinningTicket.pdb

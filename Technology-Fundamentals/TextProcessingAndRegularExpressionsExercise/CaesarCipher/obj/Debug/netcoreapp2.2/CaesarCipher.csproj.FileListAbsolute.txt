@@ -1,0 +1,22 @@
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.AssemblyInfo.cs
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CaesarCipher\bin\Debug\netcoreapp2.2\CaesarCipher.deps.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CaesarCipher\bin\Debug\netcoreapp2.2\CaesarCipher.runtimeconfig.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CaesarCipher\bin\Debug\netcoreapp2.2\CaesarCipher.runtimeconfig.dev.json
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CaesarCipher\bin\Debug\netcoreapp2.2\CaesarCipher.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CaesarCipher\bin\Debug\netcoreapp2.2\CaesarCipher.pdb
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.csprojAssemblyReference.cache
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.dll
+C:\Users\petinka\source\repos\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\CaesarCipher\bin\Debug\netcoreapp2.2\CaesarCipher.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\CaesarCipher\bin\Debug\netcoreapp2.2\CaesarCipher.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\CaesarCipher\bin\Debug\netcoreapp2.2\CaesarCipher.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\CaesarCipher\bin\Debug\netcoreapp2.2\CaesarCipher.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\CaesarCipher\bin\Debug\netcoreapp2.2\CaesarCipher.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\TextProcessingAndRegularExpressionsExercise\CaesarCipher\obj\Debug\netcoreapp2.2\CaesarCipher.pdb
