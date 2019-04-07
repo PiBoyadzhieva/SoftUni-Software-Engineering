@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniExamResults\bin\Debug\netcoreapp2.2\SoftUniExamResults.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniExamResults\bin\Debug\netcoreapp2.2\SoftUniExamResults.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniExamResults\bin\Debug\netcoreapp2.2\SoftUniExamResults.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniExamResults\bin\Debug\netcoreapp2.2\SoftUniExamResults.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniExamResults\bin\Debug\netcoreapp2.2\SoftUniExamResults.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniExamResults\obj\Debug\netcoreapp2.2\SoftUniExamResults.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniExamResults\obj\Debug\netcoreapp2.2\SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniExamResults\obj\Debug\netcoreapp2.2\SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniExamResults\obj\Debug\netcoreapp2.2\SoftUniExamResults.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniExamResults\obj\Debug\netcoreapp2.2\SoftUniExamResults.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniExamResults\obj\Debug\netcoreapp2.2\SoftUniExamResults.pdb

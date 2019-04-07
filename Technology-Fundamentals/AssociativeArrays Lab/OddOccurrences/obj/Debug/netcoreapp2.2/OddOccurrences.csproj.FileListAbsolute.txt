@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\OddOccurrences\bin\Debug\netcoreapp2.2\OddOccurrences.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\OddOccurrences\obj\Debug\netcoreapp2.2\OddOccurrences.pdb

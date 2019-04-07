@@ -1,0 +1,10 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\WordFilter\bin\Debug\netcoreapp2.2\WordFilter.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\WordFilter\bin\Debug\netcoreapp2.2\WordFilter.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\WordFilter\bin\Debug\netcoreapp2.2\WordFilter.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\WordFilter\bin\Debug\netcoreapp2.2\WordFilter.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\WordFilter\bin\Debug\netcoreapp2.2\WordFilter.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\WordFilter\obj\Debug\netcoreapp2.2\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\WordFilter\obj\Debug\netcoreapp2.2\WordFilter.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\WordFilter\obj\Debug\netcoreapp2.2\WordFilter.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\WordFilter\obj\Debug\netcoreapp2.2\WordFilter.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArrays Lab\WordFilter\obj\Debug\netcoreapp2.2\WordFilter.pdb

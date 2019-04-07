@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\netcoreapp2.2\LegendaryFarming.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\netcoreapp2.2\LegendaryFarming.pdb

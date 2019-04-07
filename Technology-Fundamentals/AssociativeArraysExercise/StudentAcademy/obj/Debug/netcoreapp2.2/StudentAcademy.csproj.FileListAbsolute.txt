@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp2.2\StudentAcademy.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp2.2\StudentAcademy.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp2.2\StudentAcademy.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp2.2\StudentAcademy.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp2.2\StudentAcademy.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp2.2\StudentAcademy.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp2.2\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp2.2\StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp2.2\StudentAcademy.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp2.2\StudentAcademy.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp2.2\StudentAcademy.pdb

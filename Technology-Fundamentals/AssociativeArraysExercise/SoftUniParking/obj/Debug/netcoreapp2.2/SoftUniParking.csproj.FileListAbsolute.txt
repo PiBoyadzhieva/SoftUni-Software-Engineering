@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\netcoreapp2.2\SoftUniParking.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\netcoreapp2.2\SoftUniParking.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\netcoreapp2.2\SoftUniParking.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\netcoreapp2.2\SoftUniParking.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\netcoreapp2.2\SoftUniParking.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\netcoreapp2.2\SoftUniParking.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\netcoreapp2.2\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\netcoreapp2.2\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\netcoreapp2.2\SoftUniParking.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\netcoreapp2.2\SoftUniParking.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\netcoreapp2.2\SoftUniParking.pdb

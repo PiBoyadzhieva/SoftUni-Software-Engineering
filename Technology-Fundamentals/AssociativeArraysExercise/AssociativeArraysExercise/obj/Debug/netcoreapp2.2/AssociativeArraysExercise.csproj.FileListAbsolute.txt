@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AssociativeArraysExercise\bin\Debug\netcoreapp2.2\AssociativeArraysExercise.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AssociativeArraysExercise\bin\Debug\netcoreapp2.2\AssociativeArraysExercise.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AssociativeArraysExercise\bin\Debug\netcoreapp2.2\AssociativeArraysExercise.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AssociativeArraysExercise\bin\Debug\netcoreapp2.2\AssociativeArraysExercise.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AssociativeArraysExercise\bin\Debug\netcoreapp2.2\AssociativeArraysExercise.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AssociativeArraysExercise\obj\Debug\netcoreapp2.2\AssociativeArraysExercise.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AssociativeArraysExercise\obj\Debug\netcoreapp2.2\AssociativeArraysExercise.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AssociativeArraysExercise\obj\Debug\netcoreapp2.2\AssociativeArraysExercise.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AssociativeArraysExercise\obj\Debug\netcoreapp2.2\AssociativeArraysExercise.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AssociativeArraysExercise\obj\Debug\netcoreapp2.2\AssociativeArraysExercise.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AssociativeArraysExercise\obj\Debug\netcoreapp2.2\AssociativeArraysExercise.pdb

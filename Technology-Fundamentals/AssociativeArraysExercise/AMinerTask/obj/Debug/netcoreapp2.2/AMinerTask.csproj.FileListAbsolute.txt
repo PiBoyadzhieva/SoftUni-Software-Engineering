@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\netcoreapp2.2\AMinerTask.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\netcoreapp2.2\AMinerTask.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\netcoreapp2.2\AMinerTask.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\netcoreapp2.2\AMinerTask.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\netcoreapp2.2\AMinerTask.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp2.2\AMinerTask.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp2.2\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp2.2\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp2.2\AMinerTask.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp2.2\AMinerTask.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\netcoreapp2.2\AMinerTask.pdb
