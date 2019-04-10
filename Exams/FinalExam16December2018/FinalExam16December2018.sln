@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concert", "Concert\Concert.csproj", "{A8036ED5-A7F2-46F1-84D9-C0D84F9D4A9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongEncryption", "SongEncryption\SongEncryption.csproj", "{60D2F828-10C8-49E6-A837-24312C61D2F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8036ED5-A7F2-46F1-84D9-C0D84F9D4A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8036ED5-A7F2-46F1-84D9-C0D84F9D4A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8036ED5-A7F2-46F1-84D9-C0D84F9D4A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8036ED5-A7F2-46F1-84D9-C0D84F9D4A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D2F828-10C8-49E6-A837-24312C61D2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D2F828-10C8-49E6-A837-24312C61D2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D2F828-10C8-49E6-A837-24312C61D2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D2F828-10C8-49E6-A837-24312C61D2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5FC719A-E709-453B-9734-4FF47203475E}
+	EndGlobalSection
+EndGlobal
