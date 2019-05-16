@@ -1,0 +1,11 @@
+D:\C# Advanced\ReverseStrings\Supermarket\bin\Debug\netcoreapp2.2\Supermarket.deps.json
+D:\C# Advanced\ReverseStrings\Supermarket\bin\Debug\netcoreapp2.2\Supermarket.runtimeconfig.json
+D:\C# Advanced\ReverseStrings\Supermarket\bin\Debug\netcoreapp2.2\Supermarket.runtimeconfig.dev.json
+D:\C# Advanced\ReverseStrings\Supermarket\bin\Debug\netcoreapp2.2\Supermarket.dll
+D:\C# Advanced\ReverseStrings\Supermarket\bin\Debug\netcoreapp2.2\Supermarket.pdb
+D:\C# Advanced\ReverseStrings\Supermarket\obj\Debug\netcoreapp2.2\Supermarket.csproj.CoreCompileInputs.cache
+D:\C# Advanced\ReverseStrings\Supermarket\obj\Debug\netcoreapp2.2\Supermarket.AssemblyInfoInputs.cache
+D:\C# Advanced\ReverseStrings\Supermarket\obj\Debug\netcoreapp2.2\Supermarket.AssemblyInfo.cs
+D:\C# Advanced\ReverseStrings\Supermarket\obj\Debug\netcoreapp2.2\Supermarket.dll
+D:\C# Advanced\ReverseStrings\Supermarket\obj\Debug\netcoreapp2.2\Supermarket.pdb
+D:\C# Advanced\ReverseStrings\Supermarket\obj\Debug\netcoreapp2.2\Supermarket.csprojAssemblyReference.cache

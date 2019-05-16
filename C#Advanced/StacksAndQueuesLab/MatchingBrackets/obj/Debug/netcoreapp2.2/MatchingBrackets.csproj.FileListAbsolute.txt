@@ -1,0 +1,10 @@
+D:\C# Advanced\ReverseStrings\MatchingBrackets\bin\Debug\netcoreapp2.2\MatchingBrackets.deps.json
+D:\C# Advanced\ReverseStrings\MatchingBrackets\bin\Debug\netcoreapp2.2\MatchingBrackets.runtimeconfig.json
+D:\C# Advanced\ReverseStrings\MatchingBrackets\bin\Debug\netcoreapp2.2\MatchingBrackets.runtimeconfig.dev.json
+D:\C# Advanced\ReverseStrings\MatchingBrackets\bin\Debug\netcoreapp2.2\MatchingBrackets.dll
+D:\C# Advanced\ReverseStrings\MatchingBrackets\bin\Debug\netcoreapp2.2\MatchingBrackets.pdb
+D:\C# Advanced\ReverseStrings\MatchingBrackets\obj\Debug\netcoreapp2.2\MatchingBrackets.csproj.CoreCompileInputs.cache
+D:\C# Advanced\ReverseStrings\MatchingBrackets\obj\Debug\netcoreapp2.2\MatchingBrackets.AssemblyInfoInputs.cache
+D:\C# Advanced\ReverseStrings\MatchingBrackets\obj\Debug\netcoreapp2.2\MatchingBrackets.AssemblyInfo.cs
+D:\C# Advanced\ReverseStrings\MatchingBrackets\obj\Debug\netcoreapp2.2\MatchingBrackets.dll
+D:\C# Advanced\ReverseStrings\MatchingBrackets\obj\Debug\netcoreapp2.2\MatchingBrackets.pdb

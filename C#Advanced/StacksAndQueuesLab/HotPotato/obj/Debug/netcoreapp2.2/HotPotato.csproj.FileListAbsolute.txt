@@ -1,0 +1,11 @@
+D:\C# Advanced\ReverseStrings\HotPotato\bin\Debug\netcoreapp2.2\HotPotato.deps.json
+D:\C# Advanced\ReverseStrings\HotPotato\bin\Debug\netcoreapp2.2\HotPotato.runtimeconfig.json
+D:\C# Advanced\ReverseStrings\HotPotato\bin\Debug\netcoreapp2.2\HotPotato.runtimeconfig.dev.json
+D:\C# Advanced\ReverseStrings\HotPotato\bin\Debug\netcoreapp2.2\HotPotato.dll
+D:\C# Advanced\ReverseStrings\HotPotato\bin\Debug\netcoreapp2.2\HotPotato.pdb
+D:\C# Advanced\ReverseStrings\HotPotato\obj\Debug\netcoreapp2.2\HotPotato.csprojAssemblyReference.cache
+D:\C# Advanced\ReverseStrings\HotPotato\obj\Debug\netcoreapp2.2\HotPotato.csproj.CoreCompileInputs.cache
+D:\C# Advanced\ReverseStrings\HotPotato\obj\Debug\netcoreapp2.2\HotPotato.AssemblyInfoInputs.cache
+D:\C# Advanced\ReverseStrings\HotPotato\obj\Debug\netcoreapp2.2\HotPotato.AssemblyInfo.cs
+D:\C# Advanced\ReverseStrings\HotPotato\obj\Debug\netcoreapp2.2\HotPotato.dll
+D:\C# Advanced\ReverseStrings\HotPotato\obj\Debug\netcoreapp2.2\HotPotato.pdb

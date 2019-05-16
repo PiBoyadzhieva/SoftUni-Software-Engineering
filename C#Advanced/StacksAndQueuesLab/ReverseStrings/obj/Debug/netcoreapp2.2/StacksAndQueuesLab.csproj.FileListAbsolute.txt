@@ -1,0 +1,11 @@
+D:\C# Advanced\ReverseStrings\StacksAndQueuesLab\bin\Debug\netcoreapp2.2\StacksAndQueuesLab.deps.json
+D:\C# Advanced\ReverseStrings\StacksAndQueuesLab\bin\Debug\netcoreapp2.2\StacksAndQueuesLab.runtimeconfig.json
+D:\C# Advanced\ReverseStrings\StacksAndQueuesLab\bin\Debug\netcoreapp2.2\StacksAndQueuesLab.runtimeconfig.dev.json
+D:\C# Advanced\ReverseStrings\StacksAndQueuesLab\bin\Debug\netcoreapp2.2\StacksAndQueuesLab.dll
+D:\C# Advanced\ReverseStrings\StacksAndQueuesLab\bin\Debug\netcoreapp2.2\StacksAndQueuesLab.pdb
+D:\C# Advanced\ReverseStrings\StacksAndQueuesLab\obj\Debug\netcoreapp2.2\StacksAndQueuesLab.csprojAssemblyReference.cache
+D:\C# Advanced\ReverseStrings\StacksAndQueuesLab\obj\Debug\netcoreapp2.2\StacksAndQueuesLab.csproj.CoreCompileInputs.cache
+D:\C# Advanced\ReverseStrings\StacksAndQueuesLab\obj\Debug\netcoreapp2.2\StacksAndQueuesLab.AssemblyInfoInputs.cache
+D:\C# Advanced\ReverseStrings\StacksAndQueuesLab\obj\Debug\netcoreapp2.2\StacksAndQueuesLab.AssemblyInfo.cs
+D:\C# Advanced\ReverseStrings\StacksAndQueuesLab\obj\Debug\netcoreapp2.2\StacksAndQueuesLab.dll
+D:\C# Advanced\ReverseStrings\StacksAndQueuesLab\obj\Debug\netcoreapp2.2\StacksAndQueuesLab.pdb

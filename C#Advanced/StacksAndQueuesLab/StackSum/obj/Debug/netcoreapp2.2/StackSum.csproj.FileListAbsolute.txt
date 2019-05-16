@@ -1,0 +1,11 @@
+D:\C# Advanced\ReverseStrings\StackSum\bin\Debug\netcoreapp2.2\StackSum.deps.json
+D:\C# Advanced\ReverseStrings\StackSum\bin\Debug\netcoreapp2.2\StackSum.runtimeconfig.json
+D:\C# Advanced\ReverseStrings\StackSum\bin\Debug\netcoreapp2.2\StackSum.runtimeconfig.dev.json
+D:\C# Advanced\ReverseStrings\StackSum\bin\Debug\netcoreapp2.2\StackSum.dll
+D:\C# Advanced\ReverseStrings\StackSum\bin\Debug\netcoreapp2.2\StackSum.pdb
+D:\C# Advanced\ReverseStrings\StackSum\obj\Debug\netcoreapp2.2\StackSum.csprojAssemblyReference.cache
+D:\C# Advanced\ReverseStrings\StackSum\obj\Debug\netcoreapp2.2\StackSum.csproj.CoreCompileInputs.cache
+D:\C# Advanced\ReverseStrings\StackSum\obj\Debug\netcoreapp2.2\StackSum.AssemblyInfoInputs.cache
+D:\C# Advanced\ReverseStrings\StackSum\obj\Debug\netcoreapp2.2\StackSum.AssemblyInfo.cs
+D:\C# Advanced\ReverseStrings\StackSum\obj\Debug\netcoreapp2.2\StackSum.dll
+D:\C# Advanced\ReverseStrings\StackSum\obj\Debug\netcoreapp2.2\StackSum.pdb

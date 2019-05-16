@@ -1,0 +1,11 @@
+D:\C# Advanced\ReverseStrings\SimpleCalculator\bin\Debug\netcoreapp2.2\SimpleCalculator.deps.json
+D:\C# Advanced\ReverseStrings\SimpleCalculator\bin\Debug\netcoreapp2.2\SimpleCalculator.runtimeconfig.json
+D:\C# Advanced\ReverseStrings\SimpleCalculator\bin\Debug\netcoreapp2.2\SimpleCalculator.runtimeconfig.dev.json
+D:\C# Advanced\ReverseStrings\SimpleCalculator\bin\Debug\netcoreapp2.2\SimpleCalculator.dll
+D:\C# Advanced\ReverseStrings\SimpleCalculator\bin\Debug\netcoreapp2.2\SimpleCalculator.pdb
+D:\C# Advanced\ReverseStrings\SimpleCalculator\obj\Debug\netcoreapp2.2\SimpleCalculator.csprojAssemblyReference.cache
+D:\C# Advanced\ReverseStrings\SimpleCalculator\obj\Debug\netcoreapp2.2\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\C# Advanced\ReverseStrings\SimpleCalculator\obj\Debug\netcoreapp2.2\SimpleCalculator.AssemblyInfoInputs.cache
+D:\C# Advanced\ReverseStrings\SimpleCalculator\obj\Debug\netcoreapp2.2\SimpleCalculator.AssemblyInfo.cs
+D:\C# Advanced\ReverseStrings\SimpleCalculator\obj\Debug\netcoreapp2.2\SimpleCalculator.dll
+D:\C# Advanced\ReverseStrings\SimpleCalculator\obj\Debug\netcoreapp2.2\SimpleCalculator.pdb
