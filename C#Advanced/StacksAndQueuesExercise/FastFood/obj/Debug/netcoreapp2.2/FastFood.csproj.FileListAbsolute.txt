@@ -1,0 +1,10 @@
+D:\C# Advanced\StacksAndQueuesExercise\FastFood\bin\Debug\netcoreapp2.2\FastFood.deps.json
+D:\C# Advanced\StacksAndQueuesExercise\FastFood\bin\Debug\netcoreapp2.2\FastFood.runtimeconfig.json
+D:\C# Advanced\StacksAndQueuesExercise\FastFood\bin\Debug\netcoreapp2.2\FastFood.runtimeconfig.dev.json
+D:\C# Advanced\StacksAndQueuesExercise\FastFood\bin\Debug\netcoreapp2.2\FastFood.dll
+D:\C# Advanced\StacksAndQueuesExercise\FastFood\bin\Debug\netcoreapp2.2\FastFood.pdb
+D:\C# Advanced\StacksAndQueuesExercise\FastFood\obj\Debug\netcoreapp2.2\FastFood.csproj.CoreCompileInputs.cache
+D:\C# Advanced\StacksAndQueuesExercise\FastFood\obj\Debug\netcoreapp2.2\FastFood.AssemblyInfoInputs.cache
+D:\C# Advanced\StacksAndQueuesExercise\FastFood\obj\Debug\netcoreapp2.2\FastFood.AssemblyInfo.cs
+D:\C# Advanced\StacksAndQueuesExercise\FastFood\obj\Debug\netcoreapp2.2\FastFood.dll
+D:\C# Advanced\StacksAndQueuesExercise\FastFood\obj\Debug\netcoreapp2.2\FastFood.pdb

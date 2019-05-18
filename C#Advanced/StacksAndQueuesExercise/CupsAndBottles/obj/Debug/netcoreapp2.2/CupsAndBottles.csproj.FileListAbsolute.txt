@@ -1,0 +1,11 @@
+D:\C# Advanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\netcoreapp2.2\CupsAndBottles.deps.json
+D:\C# Advanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\netcoreapp2.2\CupsAndBottles.runtimeconfig.json
+D:\C# Advanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\netcoreapp2.2\CupsAndBottles.runtimeconfig.dev.json
+D:\C# Advanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\netcoreapp2.2\CupsAndBottles.dll
+D:\C# Advanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\netcoreapp2.2\CupsAndBottles.pdb
+D:\C# Advanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.2\CupsAndBottles.csproj.CoreCompileInputs.cache
+D:\C# Advanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.2\CupsAndBottles.AssemblyInfoInputs.cache
+D:\C# Advanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.2\CupsAndBottles.AssemblyInfo.cs
+D:\C# Advanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.2\CupsAndBottles.dll
+D:\C# Advanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.2\CupsAndBottles.pdb
+D:\C# Advanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\netcoreapp2.2\CupsAndBottles.csprojAssemblyReference.cache

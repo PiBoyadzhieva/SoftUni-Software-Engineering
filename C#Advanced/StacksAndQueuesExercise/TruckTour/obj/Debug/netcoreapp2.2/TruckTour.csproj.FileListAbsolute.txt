@@ -1,0 +1,10 @@
+D:\C# Advanced\StacksAndQueuesExercise\TruckTour\bin\Debug\netcoreapp2.2\TruckTour.deps.json
+D:\C# Advanced\StacksAndQueuesExercise\TruckTour\bin\Debug\netcoreapp2.2\TruckTour.runtimeconfig.json
+D:\C# Advanced\StacksAndQueuesExercise\TruckTour\bin\Debug\netcoreapp2.2\TruckTour.runtimeconfig.dev.json
+D:\C# Advanced\StacksAndQueuesExercise\TruckTour\bin\Debug\netcoreapp2.2\TruckTour.dll
+D:\C# Advanced\StacksAndQueuesExercise\TruckTour\bin\Debug\netcoreapp2.2\TruckTour.pdb
+D:\C# Advanced\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp2.2\TruckTour.csproj.CoreCompileInputs.cache
+D:\C# Advanced\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp2.2\TruckTour.AssemblyInfoInputs.cache
+D:\C# Advanced\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp2.2\TruckTour.AssemblyInfo.cs
+D:\C# Advanced\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp2.2\TruckTour.dll
+D:\C# Advanced\StacksAndQueuesExercise\TruckTour\obj\Debug\netcoreapp2.2\TruckTour.pdb

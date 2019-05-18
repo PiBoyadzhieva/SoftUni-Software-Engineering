@@ -1,0 +1,10 @@
+D:\C# Advanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.deps.json
+D:\C# Advanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.runtimeconfig.json
+D:\C# Advanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.runtimeconfig.dev.json
+D:\C# Advanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.dll
+D:\C# Advanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\netcoreapp2.2\MaximumAndMinimumElement.pdb
+D:\C# Advanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\C# Advanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\C# Advanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.AssemblyInfo.cs
+D:\C# Advanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.dll
+D:\C# Advanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\netcoreapp2.2\MaximumAndMinimumElement.pdb

@@ -1,0 +1,11 @@
+D:\C# Advanced\StacksAndQueuesExercise\AutoRepairAndService\bin\Debug\netcoreapp2.2\AutoRepairAndService.deps.json
+D:\C# Advanced\StacksAndQueuesExercise\AutoRepairAndService\bin\Debug\netcoreapp2.2\AutoRepairAndService.runtimeconfig.json
+D:\C# Advanced\StacksAndQueuesExercise\AutoRepairAndService\bin\Debug\netcoreapp2.2\AutoRepairAndService.runtimeconfig.dev.json
+D:\C# Advanced\StacksAndQueuesExercise\AutoRepairAndService\bin\Debug\netcoreapp2.2\AutoRepairAndService.dll
+D:\C# Advanced\StacksAndQueuesExercise\AutoRepairAndService\bin\Debug\netcoreapp2.2\AutoRepairAndService.pdb
+D:\C# Advanced\StacksAndQueuesExercise\AutoRepairAndService\obj\Debug\netcoreapp2.2\AutoRepairAndService.csprojAssemblyReference.cache
+D:\C# Advanced\StacksAndQueuesExercise\AutoRepairAndService\obj\Debug\netcoreapp2.2\AutoRepairAndService.csproj.CoreCompileInputs.cache
+D:\C# Advanced\StacksAndQueuesExercise\AutoRepairAndService\obj\Debug\netcoreapp2.2\AutoRepairAndService.AssemblyInfoInputs.cache
+D:\C# Advanced\StacksAndQueuesExercise\AutoRepairAndService\obj\Debug\netcoreapp2.2\AutoRepairAndService.AssemblyInfo.cs
+D:\C# Advanced\StacksAndQueuesExercise\AutoRepairAndService\obj\Debug\netcoreapp2.2\AutoRepairAndService.dll
+D:\C# Advanced\StacksAndQueuesExercise\AutoRepairAndService\obj\Debug\netcoreapp2.2\AutoRepairAndService.pdb
