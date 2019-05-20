@@ -1,0 +1,11 @@
+D:\C# Advanced\MultidimensionalArraysLab\SquareWithMaximumSum\bin\Debug\netcoreapp2.2\SquareWithMaximumSum.deps.json
+D:\C# Advanced\MultidimensionalArraysLab\SquareWithMaximumSum\bin\Debug\netcoreapp2.2\SquareWithMaximumSum.runtimeconfig.json
+D:\C# Advanced\MultidimensionalArraysLab\SquareWithMaximumSum\bin\Debug\netcoreapp2.2\SquareWithMaximumSum.runtimeconfig.dev.json
+D:\C# Advanced\MultidimensionalArraysLab\SquareWithMaximumSum\bin\Debug\netcoreapp2.2\SquareWithMaximumSum.dll
+D:\C# Advanced\MultidimensionalArraysLab\SquareWithMaximumSum\bin\Debug\netcoreapp2.2\SquareWithMaximumSum.pdb
+D:\C# Advanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp2.2\SquareWithMaximumSum.csprojAssemblyReference.cache
+D:\C# Advanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp2.2\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\C# Advanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp2.2\SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\C# Advanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp2.2\SquareWithMaximumSum.AssemblyInfo.cs
+D:\C# Advanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp2.2\SquareWithMaximumSum.dll
+D:\C# Advanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp2.2\SquareWithMaximumSum.pdb
