@@ -1,0 +1,11 @@
+D:\C# Advanced\MultidimensionalArraysExercise\BombTheBasement\bin\Debug\netcoreapp2.2\BombTheBasement.deps.json
+D:\C# Advanced\MultidimensionalArraysExercise\BombTheBasement\bin\Debug\netcoreapp2.2\BombTheBasement.runtimeconfig.json
+D:\C# Advanced\MultidimensionalArraysExercise\BombTheBasement\bin\Debug\netcoreapp2.2\BombTheBasement.runtimeconfig.dev.json
+D:\C# Advanced\MultidimensionalArraysExercise\BombTheBasement\bin\Debug\netcoreapp2.2\BombTheBasement.dll
+D:\C# Advanced\MultidimensionalArraysExercise\BombTheBasement\bin\Debug\netcoreapp2.2\BombTheBasement.pdb
+D:\C# Advanced\MultidimensionalArraysExercise\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.csprojAssemblyReference.cache
+D:\C# Advanced\MultidimensionalArraysExercise\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.csproj.CoreCompileInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.AssemblyInfoInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.AssemblyInfo.cs
+D:\C# Advanced\MultidimensionalArraysExercise\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.dll
+D:\C# Advanced\MultidimensionalArraysExercise\BombTheBasement\obj\Debug\netcoreapp2.2\BombTheBasement.pdb

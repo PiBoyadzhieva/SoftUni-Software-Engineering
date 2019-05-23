@@ -1,0 +1,22 @@
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.deps.json
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.runtimeconfig.json
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.dll
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.pdb
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.AssemblyInfo.cs
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.dll
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.pdb
+D:\C# Advanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.csprojAssemblyReference.cache
+D:\C# Advanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.AssemblyInfoInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.AssemblyInfo.cs
+D:\C# Advanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.dll
+D:\C# Advanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.pdb
+D:\C# Advanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.deps.json
+D:\C# Advanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.runtimeconfig.json
+D:\C# Advanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.runtimeconfig.dev.json
+D:\C# Advanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.dll
+D:\C# Advanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.pdb

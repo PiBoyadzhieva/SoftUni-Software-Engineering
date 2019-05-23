@@ -1,0 +1,11 @@
+D:\C# Advanced\MultidimensionalArraysExercise\Bombs\bin\Debug\netcoreapp2.2\Bombs.deps.json
+D:\C# Advanced\MultidimensionalArraysExercise\Bombs\bin\Debug\netcoreapp2.2\Bombs.runtimeconfig.json
+D:\C# Advanced\MultidimensionalArraysExercise\Bombs\bin\Debug\netcoreapp2.2\Bombs.runtimeconfig.dev.json
+D:\C# Advanced\MultidimensionalArraysExercise\Bombs\bin\Debug\netcoreapp2.2\Bombs.dll
+D:\C# Advanced\MultidimensionalArraysExercise\Bombs\bin\Debug\netcoreapp2.2\Bombs.pdb
+D:\C# Advanced\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.2\Bombs.csprojAssemblyReference.cache
+D:\C# Advanced\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.2\Bombs.csproj.CoreCompileInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.2\Bombs.AssemblyInfoInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.2\Bombs.AssemblyInfo.cs
+D:\C# Advanced\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.2\Bombs.dll
+D:\C# Advanced\MultidimensionalArraysExercise\Bombs\obj\Debug\netcoreapp2.2\Bombs.pdb

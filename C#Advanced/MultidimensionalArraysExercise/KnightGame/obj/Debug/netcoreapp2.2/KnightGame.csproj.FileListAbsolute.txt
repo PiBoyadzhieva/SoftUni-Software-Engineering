@@ -1,0 +1,11 @@
+D:\C# Advanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\netcoreapp2.2\KnightGame.deps.json
+D:\C# Advanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\netcoreapp2.2\KnightGame.runtimeconfig.json
+D:\C# Advanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\netcoreapp2.2\KnightGame.runtimeconfig.dev.json
+D:\C# Advanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\netcoreapp2.2\KnightGame.dll
+D:\C# Advanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\netcoreapp2.2\KnightGame.pdb
+D:\C# Advanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\netcoreapp2.2\KnightGame.csprojAssemblyReference.cache
+D:\C# Advanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\netcoreapp2.2\KnightGame.csproj.CoreCompileInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\netcoreapp2.2\KnightGame.AssemblyInfoInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\netcoreapp2.2\KnightGame.AssemblyInfo.cs
+D:\C# Advanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\netcoreapp2.2\KnightGame.dll
+D:\C# Advanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\netcoreapp2.2\KnightGame.pdb

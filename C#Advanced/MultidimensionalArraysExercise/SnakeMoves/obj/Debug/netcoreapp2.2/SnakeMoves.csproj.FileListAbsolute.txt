@@ -1,0 +1,11 @@
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp2.2\SnakeMoves.deps.json
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp2.2\SnakeMoves.runtimeconfig.json
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp2.2\SnakeMoves.runtimeconfig.dev.json
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp2.2\SnakeMoves.dll
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\netcoreapp2.2\SnakeMoves.pdb
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.csprojAssemblyReference.cache
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.AssemblyInfo.cs
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.dll
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\netcoreapp2.2\SnakeMoves.pdb

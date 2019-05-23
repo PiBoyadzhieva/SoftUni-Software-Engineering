@@ -1,0 +1,11 @@
+D:\C# Advanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.2\RadioactiveMutantVampireBunnies.deps.json
+D:\C# Advanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.2\RadioactiveMutantVampireBunnies.runtimeconfig.json
+D:\C# Advanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.2\RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+D:\C# Advanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.2\RadioactiveMutantVampireBunnies.dll
+D:\C# Advanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp2.2\RadioactiveMutantVampireBunnies.pdb
+D:\C# Advanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.2\RadioactiveMutantVampireBunnies.csprojAssemblyReference.cache
+D:\C# Advanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.2\RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.2\RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.2\RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+D:\C# Advanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.2\RadioactiveMutantVampireBunnies.dll
+D:\C# Advanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp2.2\RadioactiveMutantVampireBunnies.pdb

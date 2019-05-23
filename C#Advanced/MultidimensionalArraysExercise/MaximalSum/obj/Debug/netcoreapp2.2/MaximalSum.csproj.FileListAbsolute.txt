@@ -1,0 +1,10 @@
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\MaximalSum\bin\Debug\netcoreapp2.2\MaximalSum.deps.json
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\MaximalSum\bin\Debug\netcoreapp2.2\MaximalSum.runtimeconfig.json
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\MaximalSum\bin\Debug\netcoreapp2.2\MaximalSum.runtimeconfig.dev.json
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\MaximalSum\bin\Debug\netcoreapp2.2\MaximalSum.dll
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\MaximalSum\bin\Debug\netcoreapp2.2\MaximalSum.pdb
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\MaximalSum\obj\Debug\netcoreapp2.2\MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\MaximalSum\obj\Debug\netcoreapp2.2\MaximalSum.AssemblyInfoInputs.cache
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\MaximalSum\obj\Debug\netcoreapp2.2\MaximalSum.AssemblyInfo.cs
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\MaximalSum\obj\Debug\netcoreapp2.2\MaximalSum.dll
+C:\Users\pikol\source\repos\MultidimensionalArraysExercise\MaximalSum\obj\Debug\netcoreapp2.2\MaximalSum.pdb

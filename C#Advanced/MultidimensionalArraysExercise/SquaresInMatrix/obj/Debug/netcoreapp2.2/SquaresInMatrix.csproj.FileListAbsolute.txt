@@ -1,0 +1,11 @@
+D:\C# Advanced\MultidimensionalArraysExercise\SquaresInMatrix\bin\Debug\netcoreapp2.2\SquaresInMatrix.deps.json
+D:\C# Advanced\MultidimensionalArraysExercise\SquaresInMatrix\bin\Debug\netcoreapp2.2\SquaresInMatrix.runtimeconfig.json
+D:\C# Advanced\MultidimensionalArraysExercise\SquaresInMatrix\bin\Debug\netcoreapp2.2\SquaresInMatrix.runtimeconfig.dev.json
+D:\C# Advanced\MultidimensionalArraysExercise\SquaresInMatrix\bin\Debug\netcoreapp2.2\SquaresInMatrix.dll
+D:\C# Advanced\MultidimensionalArraysExercise\SquaresInMatrix\bin\Debug\netcoreapp2.2\SquaresInMatrix.pdb
+D:\C# Advanced\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.2\SquaresInMatrix.csprojAssemblyReference.cache
+D:\C# Advanced\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.2\SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.2\SquaresInMatrix.AssemblyInfoInputs.cache
+D:\C# Advanced\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.2\SquaresInMatrix.AssemblyInfo.cs
+D:\C# Advanced\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.2\SquaresInMatrix.dll
+D:\C# Advanced\MultidimensionalArraysExercise\SquaresInMatrix\obj\Debug\netcoreapp2.2\SquaresInMatrix.pdb
