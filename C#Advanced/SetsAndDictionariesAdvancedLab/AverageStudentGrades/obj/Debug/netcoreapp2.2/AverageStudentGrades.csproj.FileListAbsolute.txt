@@ -1,0 +1,11 @@
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\AverageStudentGrades\bin\Debug\netcoreapp2.2\AverageStudentGrades.deps.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\AverageStudentGrades\bin\Debug\netcoreapp2.2\AverageStudentGrades.runtimeconfig.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\AverageStudentGrades\bin\Debug\netcoreapp2.2\AverageStudentGrades.runtimeconfig.dev.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\AverageStudentGrades\bin\Debug\netcoreapp2.2\AverageStudentGrades.dll
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\AverageStudentGrades\bin\Debug\netcoreapp2.2\AverageStudentGrades.pdb
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\AverageStudentGrades\obj\Debug\netcoreapp2.2\AverageStudentGrades.csprojAssemblyReference.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\AverageStudentGrades\obj\Debug\netcoreapp2.2\AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\AverageStudentGrades\obj\Debug\netcoreapp2.2\AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\AverageStudentGrades\obj\Debug\netcoreapp2.2\AverageStudentGrades.AssemblyInfo.cs
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\AverageStudentGrades\obj\Debug\netcoreapp2.2\AverageStudentGrades.dll
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\AverageStudentGrades\obj\Debug\netcoreapp2.2\AverageStudentGrades.pdb

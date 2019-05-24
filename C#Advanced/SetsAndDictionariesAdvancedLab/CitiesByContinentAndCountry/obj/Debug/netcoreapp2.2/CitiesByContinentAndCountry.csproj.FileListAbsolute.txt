@@ -1,0 +1,11 @@
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.csprojAssemblyReference.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.2\CitiesByContinentAndCountry.deps.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.2\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.2\CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.2\CitiesByContinentAndCountry.dll
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\bin\Debug\netcoreapp2.2\CitiesByContinentAndCountry.pdb
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.dll
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp2.2\CitiesByContinentAndCountry.pdb

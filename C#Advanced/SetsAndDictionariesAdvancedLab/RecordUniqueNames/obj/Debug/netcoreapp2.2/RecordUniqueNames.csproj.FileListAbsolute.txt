@@ -1,0 +1,11 @@
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\netcoreapp2.2\RecordUniqueNames.deps.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\netcoreapp2.2\RecordUniqueNames.runtimeconfig.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\netcoreapp2.2\RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\netcoreapp2.2\RecordUniqueNames.dll
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\netcoreapp2.2\RecordUniqueNames.pdb
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp2.2\RecordUniqueNames.csprojAssemblyReference.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp2.2\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp2.2\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp2.2\RecordUniqueNames.AssemblyInfo.cs
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp2.2\RecordUniqueNames.dll
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp2.2\RecordUniqueNames.pdb

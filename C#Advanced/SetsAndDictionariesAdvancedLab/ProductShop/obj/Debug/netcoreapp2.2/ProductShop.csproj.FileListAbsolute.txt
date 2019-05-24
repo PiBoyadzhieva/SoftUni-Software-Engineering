@@ -1,0 +1,11 @@
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ProductShop\bin\Debug\netcoreapp2.2\ProductShop.deps.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ProductShop\bin\Debug\netcoreapp2.2\ProductShop.runtimeconfig.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ProductShop\bin\Debug\netcoreapp2.2\ProductShop.runtimeconfig.dev.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ProductShop\bin\Debug\netcoreapp2.2\ProductShop.dll
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ProductShop\bin\Debug\netcoreapp2.2\ProductShop.pdb
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.csprojAssemblyReference.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.AssemblyInfoInputs.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.AssemblyInfo.cs
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.dll
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ProductShop\obj\Debug\netcoreapp2.2\ProductShop.pdb

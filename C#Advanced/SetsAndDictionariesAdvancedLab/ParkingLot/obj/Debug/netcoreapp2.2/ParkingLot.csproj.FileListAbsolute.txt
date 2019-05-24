@@ -1,0 +1,10 @@
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ParkingLot\bin\Debug\netcoreapp2.2\ParkingLot.deps.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ParkingLot\bin\Debug\netcoreapp2.2\ParkingLot.runtimeconfig.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ParkingLot\bin\Debug\netcoreapp2.2\ParkingLot.runtimeconfig.dev.json
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ParkingLot\bin\Debug\netcoreapp2.2\ParkingLot.dll
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ParkingLot\bin\Debug\netcoreapp2.2\ParkingLot.pdb
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ParkingLot\obj\Debug\netcoreapp2.2\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ParkingLot\obj\Debug\netcoreapp2.2\ParkingLot.AssemblyInfoInputs.cache
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ParkingLot\obj\Debug\netcoreapp2.2\ParkingLot.AssemblyInfo.cs
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ParkingLot\obj\Debug\netcoreapp2.2\ParkingLot.dll
+C:\Users\pikol\source\repos\SetsAndDictionariesAdvancedLab\ParkingLot\obj\Debug\netcoreapp2.2\ParkingLot.pdb
