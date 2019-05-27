@@ -1,0 +1,11 @@
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\Ranking\bin\Debug\netcoreapp2.2\Ranking.deps.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\Ranking\bin\Debug\netcoreapp2.2\Ranking.runtimeconfig.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\Ranking\bin\Debug\netcoreapp2.2\Ranking.runtimeconfig.dev.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\Ranking\bin\Debug\netcoreapp2.2\Ranking.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\Ranking\bin\Debug\netcoreapp2.2\Ranking.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\Ranking\obj\Debug\netcoreapp2.2\Ranking.csprojAssemblyReference.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\Ranking\obj\Debug\netcoreapp2.2\Ranking.csproj.CoreCompileInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\Ranking\obj\Debug\netcoreapp2.2\Ranking.AssemblyInfoInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\Ranking\obj\Debug\netcoreapp2.2\Ranking.AssemblyInfo.cs
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\Ranking\obj\Debug\netcoreapp2.2\Ranking.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\Ranking\obj\Debug\netcoreapp2.2\Ranking.pdb

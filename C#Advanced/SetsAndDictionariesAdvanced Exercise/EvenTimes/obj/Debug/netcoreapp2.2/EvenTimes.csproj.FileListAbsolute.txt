@@ -1,0 +1,10 @@
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\EvenTimes\bin\Debug\netcoreapp2.2\EvenTimes.deps.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\EvenTimes\bin\Debug\netcoreapp2.2\EvenTimes.runtimeconfig.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\EvenTimes\bin\Debug\netcoreapp2.2\EvenTimes.runtimeconfig.dev.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\EvenTimes\bin\Debug\netcoreapp2.2\EvenTimes.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\EvenTimes\bin\Debug\netcoreapp2.2\EvenTimes.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\EvenTimes\obj\Debug\netcoreapp2.2\EvenTimes.csproj.CoreCompileInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\EvenTimes\obj\Debug\netcoreapp2.2\EvenTimes.AssemblyInfoInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\EvenTimes\obj\Debug\netcoreapp2.2\EvenTimes.AssemblyInfo.cs
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\EvenTimes\obj\Debug\netcoreapp2.2\EvenTimes.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\EvenTimes\obj\Debug\netcoreapp2.2\EvenTimes.pdb

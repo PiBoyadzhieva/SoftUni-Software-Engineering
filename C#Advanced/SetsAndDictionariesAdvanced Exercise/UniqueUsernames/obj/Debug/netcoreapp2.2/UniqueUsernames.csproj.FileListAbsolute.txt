@@ -1,0 +1,11 @@
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.csprojAssemblyReference.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.AssemblyInfoInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.AssemblyInfo.cs
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\UniqueUsernames\bin\Debug\netcoreapp2.2\UniqueUsernames.deps.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\UniqueUsernames\bin\Debug\netcoreapp2.2\UniqueUsernames.runtimeconfig.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\UniqueUsernames\bin\Debug\netcoreapp2.2\UniqueUsernames.runtimeconfig.dev.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\UniqueUsernames\bin\Debug\netcoreapp2.2\UniqueUsernames.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\UniqueUsernames\bin\Debug\netcoreapp2.2\UniqueUsernames.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\UniqueUsernames\obj\Debug\netcoreapp2.2\UniqueUsernames.pdb

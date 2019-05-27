@@ -1,0 +1,10 @@
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\PeriodicTable\obj\Debug\netcoreapp2.2\PeriodicTable.csproj.CoreCompileInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\PeriodicTable\obj\Debug\netcoreapp2.2\PeriodicTable.AssemblyInfoInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\PeriodicTable\obj\Debug\netcoreapp2.2\PeriodicTable.AssemblyInfo.cs
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\PeriodicTable\bin\Debug\netcoreapp2.2\PeriodicTable.deps.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\PeriodicTable\bin\Debug\netcoreapp2.2\PeriodicTable.runtimeconfig.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\PeriodicTable\bin\Debug\netcoreapp2.2\PeriodicTable.runtimeconfig.dev.json
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\PeriodicTable\bin\Debug\netcoreapp2.2\PeriodicTable.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\PeriodicTable\bin\Debug\netcoreapp2.2\PeriodicTable.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\PeriodicTable\obj\Debug\netcoreapp2.2\PeriodicTable.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced Exercise\PeriodicTable\obj\Debug\netcoreapp2.2\PeriodicTable.pdb
