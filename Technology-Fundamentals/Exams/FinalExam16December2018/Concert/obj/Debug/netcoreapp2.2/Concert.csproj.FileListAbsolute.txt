@@ -1,0 +1,11 @@
+C:\Users\petinka\Desktop\Technology Fundamentals\FinalExam16December2018\Concert\bin\Debug\netcoreapp2.2\Concert.deps.json
+C:\Users\petinka\Desktop\Technology Fundamentals\FinalExam16December2018\Concert\bin\Debug\netcoreapp2.2\Concert.runtimeconfig.json
+C:\Users\petinka\Desktop\Technology Fundamentals\FinalExam16December2018\Concert\bin\Debug\netcoreapp2.2\Concert.runtimeconfig.dev.json
+C:\Users\petinka\Desktop\Technology Fundamentals\FinalExam16December2018\Concert\bin\Debug\netcoreapp2.2\Concert.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\FinalExam16December2018\Concert\bin\Debug\netcoreapp2.2\Concert.pdb
+C:\Users\petinka\Desktop\Technology Fundamentals\FinalExam16December2018\Concert\obj\Debug\netcoreapp2.2\Concert.csprojAssemblyReference.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\FinalExam16December2018\Concert\obj\Debug\netcoreapp2.2\Concert.csproj.CoreCompileInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\FinalExam16December2018\Concert\obj\Debug\netcoreapp2.2\Concert.AssemblyInfoInputs.cache
+C:\Users\petinka\Desktop\Technology Fundamentals\FinalExam16December2018\Concert\obj\Debug\netcoreapp2.2\Concert.AssemblyInfo.cs
+C:\Users\petinka\Desktop\Technology Fundamentals\FinalExam16December2018\Concert\obj\Debug\netcoreapp2.2\Concert.dll
+C:\Users\petinka\Desktop\Technology Fundamentals\FinalExam16December2018\Concert\obj\Debug\netcoreapp2.2\Concert.pdb
