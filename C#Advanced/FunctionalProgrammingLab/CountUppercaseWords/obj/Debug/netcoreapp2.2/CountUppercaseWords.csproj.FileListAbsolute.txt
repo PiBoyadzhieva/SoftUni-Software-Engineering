@@ -1,0 +1,11 @@
+D:\C# Advanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\netcoreapp2.2\CountUppercaseWords.deps.json
+D:\C# Advanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\netcoreapp2.2\CountUppercaseWords.runtimeconfig.json
+D:\C# Advanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\netcoreapp2.2\CountUppercaseWords.runtimeconfig.dev.json
+D:\C# Advanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\netcoreapp2.2\CountUppercaseWords.dll
+D:\C# Advanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\netcoreapp2.2\CountUppercaseWords.pdb
+D:\C# Advanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\netcoreapp2.2\CountUppercaseWords.csprojAssemblyReference.cache
+D:\C# Advanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\netcoreapp2.2\CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\C# Advanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\netcoreapp2.2\CountUppercaseWords.AssemblyInfoInputs.cache
+D:\C# Advanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\netcoreapp2.2\CountUppercaseWords.AssemblyInfo.cs
+D:\C# Advanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\netcoreapp2.2\CountUppercaseWords.dll
+D:\C# Advanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\netcoreapp2.2\CountUppercaseWords.pdb

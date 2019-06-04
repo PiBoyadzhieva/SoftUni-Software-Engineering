@@ -1,0 +1,11 @@
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAgeTwoWay\obj\Debug\netcoreapp2.2\FilterByAgeTwoWay.csprojAssemblyReference.cache
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAgeTwoWay\obj\Debug\netcoreapp2.2\FilterByAgeTwoWay.csproj.CoreCompileInputs.cache
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAgeTwoWay\obj\Debug\netcoreapp2.2\FilterByAgeTwoWay.AssemblyInfoInputs.cache
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAgeTwoWay\obj\Debug\netcoreapp2.2\FilterByAgeTwoWay.AssemblyInfo.cs
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAgeTwoWay\bin\Debug\netcoreapp2.2\FilterByAgeTwoWay.deps.json
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAgeTwoWay\bin\Debug\netcoreapp2.2\FilterByAgeTwoWay.runtimeconfig.json
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAgeTwoWay\bin\Debug\netcoreapp2.2\FilterByAgeTwoWay.runtimeconfig.dev.json
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAgeTwoWay\bin\Debug\netcoreapp2.2\FilterByAgeTwoWay.dll
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAgeTwoWay\bin\Debug\netcoreapp2.2\FilterByAgeTwoWay.pdb
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAgeTwoWay\obj\Debug\netcoreapp2.2\FilterByAgeTwoWay.dll
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAgeTwoWay\obj\Debug\netcoreapp2.2\FilterByAgeTwoWay.pdb

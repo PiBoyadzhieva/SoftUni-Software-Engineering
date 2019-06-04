@@ -1,0 +1,11 @@
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp2.2\FilterByAge.deps.json
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp2.2\FilterByAge.runtimeconfig.json
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp2.2\FilterByAge.runtimeconfig.dev.json
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp2.2\FilterByAge.dll
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\netcoreapp2.2\FilterByAge.pdb
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp2.2\FilterByAge.csprojAssemblyReference.cache
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp2.2\FilterByAge.csproj.CoreCompileInputs.cache
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp2.2\FilterByAge.AssemblyInfoInputs.cache
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp2.2\FilterByAge.AssemblyInfo.cs
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp2.2\FilterByAge.dll
+D:\C# Advanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\netcoreapp2.2\FilterByAge.pdb
