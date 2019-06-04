@@ -1,0 +1,11 @@
+D:\C# Advanced\FunctionalProgrammingExercises\PredicateParty\bin\Debug\netcoreapp2.2\PredicateParty.deps.json
+D:\C# Advanced\FunctionalProgrammingExercises\PredicateParty\bin\Debug\netcoreapp2.2\PredicateParty.runtimeconfig.json
+D:\C# Advanced\FunctionalProgrammingExercises\PredicateParty\bin\Debug\netcoreapp2.2\PredicateParty.runtimeconfig.dev.json
+D:\C# Advanced\FunctionalProgrammingExercises\PredicateParty\bin\Debug\netcoreapp2.2\PredicateParty.dll
+D:\C# Advanced\FunctionalProgrammingExercises\PredicateParty\bin\Debug\netcoreapp2.2\PredicateParty.pdb
+D:\C# Advanced\FunctionalProgrammingExercises\PredicateParty\obj\Debug\netcoreapp2.2\PredicateParty.csproj.CoreCompileInputs.cache
+D:\C# Advanced\FunctionalProgrammingExercises\PredicateParty\obj\Debug\netcoreapp2.2\PredicateParty.AssemblyInfoInputs.cache
+D:\C# Advanced\FunctionalProgrammingExercises\PredicateParty\obj\Debug\netcoreapp2.2\PredicateParty.AssemblyInfo.cs
+D:\C# Advanced\FunctionalProgrammingExercises\PredicateParty\obj\Debug\netcoreapp2.2\PredicateParty.dll
+D:\C# Advanced\FunctionalProgrammingExercises\PredicateParty\obj\Debug\netcoreapp2.2\PredicateParty.pdb
+D:\C# Advanced\FunctionalProgrammingExercises\PredicateParty\obj\Debug\netcoreapp2.2\PredicateParty.csprojAssemblyReference.cache

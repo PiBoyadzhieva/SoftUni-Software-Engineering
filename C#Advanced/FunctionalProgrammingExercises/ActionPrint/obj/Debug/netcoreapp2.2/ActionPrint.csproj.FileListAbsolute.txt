@@ -1,0 +1,11 @@
+D:\C# Advanced\FunctionalProgrammingExercises\ActionPrint\bin\Debug\netcoreapp2.2\ActionPrint.deps.json
+D:\C# Advanced\FunctionalProgrammingExercises\ActionPrint\bin\Debug\netcoreapp2.2\ActionPrint.runtimeconfig.json
+D:\C# Advanced\FunctionalProgrammingExercises\ActionPrint\bin\Debug\netcoreapp2.2\ActionPrint.runtimeconfig.dev.json
+D:\C# Advanced\FunctionalProgrammingExercises\ActionPrint\bin\Debug\netcoreapp2.2\ActionPrint.dll
+D:\C# Advanced\FunctionalProgrammingExercises\ActionPrint\bin\Debug\netcoreapp2.2\ActionPrint.pdb
+D:\C# Advanced\FunctionalProgrammingExercises\ActionPrint\obj\Debug\netcoreapp2.2\ActionPrint.csprojAssemblyReference.cache
+D:\C# Advanced\FunctionalProgrammingExercises\ActionPrint\obj\Debug\netcoreapp2.2\ActionPrint.csproj.CoreCompileInputs.cache
+D:\C# Advanced\FunctionalProgrammingExercises\ActionPrint\obj\Debug\netcoreapp2.2\ActionPrint.AssemblyInfoInputs.cache
+D:\C# Advanced\FunctionalProgrammingExercises\ActionPrint\obj\Debug\netcoreapp2.2\ActionPrint.AssemblyInfo.cs
+D:\C# Advanced\FunctionalProgrammingExercises\ActionPrint\obj\Debug\netcoreapp2.2\ActionPrint.dll
+D:\C# Advanced\FunctionalProgrammingExercises\ActionPrint\obj\Debug\netcoreapp2.2\ActionPrint.pdb
