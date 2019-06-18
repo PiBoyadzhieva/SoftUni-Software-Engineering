@@ -1,0 +1,11 @@
+D:\C# Advanced\Exam17Feb2019\Socks\bin\Debug\netcoreapp2.2\Socks.deps.json
+D:\C# Advanced\Exam17Feb2019\Socks\bin\Debug\netcoreapp2.2\Socks.runtimeconfig.json
+D:\C# Advanced\Exam17Feb2019\Socks\bin\Debug\netcoreapp2.2\Socks.runtimeconfig.dev.json
+D:\C# Advanced\Exam17Feb2019\Socks\bin\Debug\netcoreapp2.2\Socks.dll
+D:\C# Advanced\Exam17Feb2019\Socks\bin\Debug\netcoreapp2.2\Socks.pdb
+D:\C# Advanced\Exam17Feb2019\Socks\obj\Debug\netcoreapp2.2\Socks.csprojAssemblyReference.cache
+D:\C# Advanced\Exam17Feb2019\Socks\obj\Debug\netcoreapp2.2\Socks.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Exam17Feb2019\Socks\obj\Debug\netcoreapp2.2\Socks.AssemblyInfoInputs.cache
+D:\C# Advanced\Exam17Feb2019\Socks\obj\Debug\netcoreapp2.2\Socks.AssemblyInfo.cs
+D:\C# Advanced\Exam17Feb2019\Socks\obj\Debug\netcoreapp2.2\Socks.dll
+D:\C# Advanced\Exam17Feb2019\Socks\obj\Debug\netcoreapp2.2\Socks.pdb
