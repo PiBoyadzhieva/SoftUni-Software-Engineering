@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubParty", "ClubParty\ClubParty.csproj", "{D5DBD2AE-1A4B-4EF0-BD4C-7CE5B7477195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronRacers", "TronRacers\TronRacers.csproj", "{D11BBCB9-A5D0-4584-99CA-F263822E2815}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heroes", "Heroes\Heroes.csproj", "{2484BC0F-7CEA-4EE3-81E3-08D1A3981056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5DBD2AE-1A4B-4EF0-BD4C-7CE5B7477195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DBD2AE-1A4B-4EF0-BD4C-7CE5B7477195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DBD2AE-1A4B-4EF0-BD4C-7CE5B7477195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DBD2AE-1A4B-4EF0-BD4C-7CE5B7477195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11BBCB9-A5D0-4584-99CA-F263822E2815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11BBCB9-A5D0-4584-99CA-F263822E2815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11BBCB9-A5D0-4584-99CA-F263822E2815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11BBCB9-A5D0-4584-99CA-F263822E2815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2484BC0F-7CEA-4EE3-81E3-08D1A3981056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2484BC0F-7CEA-4EE3-81E3-08D1A3981056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2484BC0F-7CEA-4EE3-81E3-08D1A3981056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2484BC0F-7CEA-4EE3-81E3-08D1A3981056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19DB0860-0079-4F47-9CCB-E477F17214B5}
+	EndGlobalSection
+EndGlobal
