@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using WildFarm.Models.Foods.Entities;
+
+namespace WildFarm.Models.Animals.Entities
+{
+    class Mouse : Mammal
+    {
+        public Mouse(string name, double weight, string livngRegion) 
+            : base(name, weight, livngRegion)
+        {
+
+        }
+
+        protected override List<Type> PrefferedFoodTypes => new List<Type> { typeof(Vegetable), typeof(Fruit) };
+
+        protected override double WeightMultiplier => 0.10;
+
+        public override string AskFood()
+        {
+            return "Squeak";
+        }
+        public override string ToString()
+        {
+            return base.ToString() + $"{this.Weight}, {this.LivingRegion}, {this.FoodEaten}]";
+        }
+    }
+}
