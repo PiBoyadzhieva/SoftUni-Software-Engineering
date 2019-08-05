@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C# OOP\\UnitTestingLab\\Lab\\ClassLibrary1\\Skeleton.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\C# OOP\\UnitTestingLab\\Lab\\ClassLibrary1\\Skeleton.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# OOP\\UnitTestingLab\\Lab\\ClassLibrary1\\Skeleton.Tests.csproj",
+        "projectName": "Skeleton.Tests",
+        "projectPath": "D:\\C# OOP\\UnitTestingLab\\Lab\\ClassLibrary1\\Skeleton.Tests.csproj",
+        "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
+        "outputPath": "D:\\C# OOP\\UnitTestingLab\\Lab\\ClassLibrary1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\C# OOP\\UnitTestingLab\\Lab\\Skeleton\\Skeleton.csproj": {
+                "projectPath": "D:\\C# OOP\\UnitTestingLab\\Lab\\Skeleton\\Skeleton.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\C# OOP\\UnitTestingLab\\Lab\\Skeleton\\Skeleton.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# OOP\\UnitTestingLab\\Lab\\Skeleton\\Skeleton.csproj",
+        "projectName": "Skeleton",
+        "projectPath": "D:\\C# OOP\\UnitTestingLab\\Lab\\Skeleton\\Skeleton.csproj",
+        "packagesPath": "C:\\Users\\pikol\\.nuget\\packages\\",
+        "outputPath": "D:\\C# OOP\\UnitTestingLab\\Lab\\Skeleton\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

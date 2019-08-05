@@ -1,0 +1,17 @@
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\obj\Debug\netcoreapp2.1\Skeleton.Tests.csprojAssemblyReference.cache
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\obj\Debug\netcoreapp2.1\Skeleton.Tests.csproj.CoreCompileInputs.cache
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\obj\Debug\netcoreapp2.1\Skeleton.Tests.AssemblyInfoInputs.cache
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\obj\Debug\netcoreapp2.1\Skeleton.Tests.AssemblyInfo.cs
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\bin\Debug\netcoreapp2.1\Skeleton.Tests.deps.json
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\bin\Debug\netcoreapp2.1\Skeleton.Tests.runtimeconfig.json
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\bin\Debug\netcoreapp2.1\Skeleton.Tests.runtimeconfig.dev.json
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\bin\Debug\netcoreapp2.1\Skeleton.Tests.dll
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\bin\Debug\netcoreapp2.1\Skeleton.Tests.pdb
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\bin\Debug\netcoreapp2.1\Skeleton.dll
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\bin\Debug\netcoreapp2.1\Skeleton.pdb
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\obj\Debug\netcoreapp2.1\Skeleton.Tests.csproj.CopyComplete
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\obj\Debug\netcoreapp2.1\Skeleton.Tests.dll
+D:\C# OOP\UnitTestingLab\Lab\ClassLibrary1\obj\Debug\netcoreapp2.1\Skeleton.Tests.pdb
