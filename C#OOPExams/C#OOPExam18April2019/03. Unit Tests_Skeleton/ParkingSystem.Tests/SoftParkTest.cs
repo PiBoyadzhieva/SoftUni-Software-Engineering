@@ -92,5 +92,15 @@ namespace ParkingSystem.Tests
 
             Assert.Throws<ArgumentException>(() => softPark.RemoveCar("B1", car));
         }
+
+        [Test]
+        public void TestIfCtorShouldInitializeAllParkingSpot()
+        {
+            SoftPark softPark = new SoftPark();
+
+            int expectedCount = 12;
+
+            Assert.AreEqual(expectedCount, softPark.Parking.Count);
+        }
     }
 }

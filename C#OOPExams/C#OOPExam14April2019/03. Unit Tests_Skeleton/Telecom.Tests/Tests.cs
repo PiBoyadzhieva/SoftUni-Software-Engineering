@@ -52,6 +52,13 @@ namespace Telecom.Tests
         }
 
         [Test]
+        public void TestIfCountWorksCorrectly()
+        {
+            int expectedCount = 0;
+
+            Assert.AreEqual(expectedCount, this.phone.Count);
+        }
+        [Test]
         public void TestIfAddingWorkingCorrectly()
         {
             this.phone.AddContact("Ivan", "0888353535");
