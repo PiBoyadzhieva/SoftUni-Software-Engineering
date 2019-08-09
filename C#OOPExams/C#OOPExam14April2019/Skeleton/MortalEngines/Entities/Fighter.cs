@@ -16,6 +16,8 @@ namespace MortalEngines.Entities
                   initialHealthPoints)
         {
             this.AggressiveMode = true;
+
+            //this.ToggleAggressiveMode(); Another way to set correctly attackPoints and DefencePoints instead to pass values top;
         }
 
         public bool AggressiveMode { get; private set; }

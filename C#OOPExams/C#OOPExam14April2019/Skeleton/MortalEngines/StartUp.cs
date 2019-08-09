@@ -1,4 +1,5 @@
 ﻿using MortalEngines.Core;
+using MortalEngines.Entities;
 
 namespace MortalEngines
 {

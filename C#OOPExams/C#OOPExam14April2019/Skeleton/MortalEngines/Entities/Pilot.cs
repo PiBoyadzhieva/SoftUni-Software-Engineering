@@ -5,16 +5,22 @@ using System.Text;
 
 namespace MortalEngines.Entities
 {
-    class Pilot : IPilot
+    public class Pilot : IPilot
     {
         private string name;
         private readonly IList<IMachine> machines;
 
-        public Pilot(string name)
+        private Pilot()
         {
-            this.Name = name;
             this.machines = new List<IMachine>();
         }
+
+        public Pilot(string name)
+            :this()
+        {
+            this.Name = name;
+        }
+
         public string Name
         {
             get
@@ -30,6 +36,7 @@ namespace MortalEngines.Entities
                 this.name = value;
             }
         }
+
         public void AddMachine(IMachine machine)
         {
             if(machine == null)
@@ -44,7 +51,7 @@ namespace MortalEngines.Entities
         {
             var sb = new StringBuilder();
 
-            sb.AppendLine($"{this.name} - {this.machines.Count} machines");
+            sb.AppendLine($"{this.Name} - {this.machines.Count} machines");
 
             foreach (var machine in this.machines)
             {

@@ -9,8 +9,8 @@
 
     public class MachinesManager : IMachinesManager
     {
-        private readonly List<IPilot> pilots;
-        private readonly List<IMachine> machines;
+        private readonly IList<IPilot> pilots;
+        private readonly IList<IMachine> machines;
 
         public MachinesManager()
         {
@@ -38,7 +38,6 @@
             {
                 return string.Format(OutputMessages.MachineExists, name);
             }
-
 
             ITank tank = new Tank(name, attackPoints, defensePoints);
             this.machines.Add(tank);

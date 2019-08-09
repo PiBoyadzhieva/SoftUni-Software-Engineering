@@ -8,18 +8,24 @@ namespace MortalEngines.Entities
     public abstract class BaseMachine : IMachine
     {
         private readonly List<string> targets;
+
         private string name;
         private IPilot pilot;
 
+        private BaseMachine()
+        {
+            this.targets = new List<string>();
+        }
+
         public BaseMachine(string name, double attackPoints, double defensePoints, double healthPoints)
+            :this()
         {
             this.Name = name;
             this.AttackPoints = attackPoints;
             this.DefensePoints = defensePoints;
             this.HealthPoints = healthPoints;
-
-            this.targets = new List<string>();
         }
+
         public string Name
         {
             get
