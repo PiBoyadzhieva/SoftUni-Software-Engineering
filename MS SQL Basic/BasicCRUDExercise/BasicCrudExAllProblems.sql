@@ -1,3 +1,5 @@
+USE SoftUni
+
 --Problem 2
 SELECT *
 FROM Departments;
@@ -19,7 +21,7 @@ SELECT FirstName,
 FROM Employees; 
 
 --Problem 6
-SELECT FirstName + '.' + LastName + '@softuni.bg'
+SELECT FirstName + '.' + LastName + '@softuni.bg' AS [Full Email Address]
 FROM Employees;
 
 --Problem 7
@@ -40,9 +42,11 @@ FROM Employees
 WHERE Salary BETWEEN 20000 AND 30000;
 
 --Problem 10
-SELECT FirstName + ' ' + MiddleName + ' ' + LastName AS 'Full Name'
+SELECT Concat(FirstName, ' ', MiddleName + ' ', LastName) AS [Full Name] 		-- doesn't return is some value is null
+--SELECT FirstName + ' ' + MiddleName + ' ' + LastName AS [Full Name]			-- returns NULL if some value is null
 FROM Employees
 WHERE Salary IN(25000, 14000, 12500, 23600);
+
 --Another way:
 --WHERE Salary = 25000
       --OR Salary = 14000
@@ -97,10 +101,11 @@ AS
 --Problem 17
 CREATE VIEW V_EmployeeNameJobTitle
 AS
-     SELECT FirstName + ' ' + ISNULL(MiddleName, '') + ' ' + LastName AS 'Full Name', 
-            JobTitle
+     SELECT FirstName + ' ' + ISNULL(MiddleName, '') + ' ' + LastName AS [Full Name], 
+            JobTitle AS [Job Title]
      FROM Employees;
 
+	 
 --SELECT *
 --FROM V_EmployeeNameJobTitle;
 
@@ -146,7 +151,7 @@ SELECT TOP (30) CountryName,
                 [Population]
 FROM Countries
 WHERE ContinentCode = 'EU'
-ORDER BY Population DESC, 
+ORDER BY [Population] DESC, 
          CountryName;
 
 --Problem 24
