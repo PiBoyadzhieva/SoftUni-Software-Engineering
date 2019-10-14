@@ -5,7 +5,7 @@ AS
           SET 
               ArrivalTime = NULL, 
               DepartureTime = NULL
-        WHERE DepartureTime < ArrivalTime;
+        WHERE DATEDIFF(SECOND, DepartureTime, ArrivalTime) > 0;
     END;
 
 EXEC usp_CancelFlights
