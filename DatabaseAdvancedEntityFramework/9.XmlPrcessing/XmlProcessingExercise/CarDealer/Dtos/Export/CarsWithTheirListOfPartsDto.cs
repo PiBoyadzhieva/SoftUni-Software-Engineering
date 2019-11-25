@@ -2,6 +2,7 @@
 {
     using System.Xml.Serialization;
 
+    [XmlType("car")]
     public class CarsWithTheirListOfPartsDto
     {
         [XmlAttribute("make")]

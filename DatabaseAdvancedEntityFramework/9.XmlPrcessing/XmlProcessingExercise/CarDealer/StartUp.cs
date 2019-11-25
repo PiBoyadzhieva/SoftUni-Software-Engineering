@@ -1,6 +1,7 @@
 ﻿namespace CarDealer
 {
     using AutoMapper;
+    using AutoMapper.QueryableExtensions;
     using CarDealer.Data;
     using CarDealer.Dtos.Export;
     using CarDealer.Dtos.Import;
@@ -42,7 +43,7 @@
             //var salesXml = File.ReadAllText(@"./../../../Datasets/sales.xml");
             //var salesResult = ImportSales(context, salesXml);
 
-            var result = GetSalesWithAppliedDiscount(context);
+            var result = GetLocalSuppliers(context);
             Console.WriteLine(result);
         }
 
@@ -214,6 +215,7 @@
             return sb.ToString().TrimEnd();
         }
 
+        //Problem 15
         public static string GetCarsFromMakeBmw(CarDealerContext context)
         {
             var cars = context.Cars
@@ -263,6 +265,26 @@
 
         }
 
+        ////Problem 16 with Auto Mapping
+        //public static string GetLocalSuppliers(CarDealerContext context)
+        //{
+        //    var suppliers = context.Suppliers
+        //        .Where(s => s.IsImporter == false)
+        //        .ProjectTo<SupplierWithPartsCountDto>()
+        //        .ToArray();
+
+        //    XmlSerializer xmlSerializer = new XmlSerializer(typeof(SupplierWithPartsCountDto[]), new XmlRootAttribute("suppliers"));
+
+        //    var sb = new StringBuilder();
+        //    var namespaces = new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty });
+
+        //    xmlSerializer.Serialize(new StringWriter(sb), suppliers, namespaces);
+
+        //    return sb.ToString().TrimEnd();
+
+        //}
+
+
         //Problem 17
         public static string GetCarsWithTheirListOfParts(CarDealerContext context)
         {
@@ -294,6 +316,34 @@
 
             return sb.ToString().TrimEnd();
         }
+
+        ////Problem 17 with auto Map
+        //public static string GetCarsWithTheirListOfParts(CarDealerContext context)
+        //{
+        //    var cars = context.Cars
+        //        .OrderByDescending(c => c.TravelledDistance)
+        //        .ThenBy(c => c.Model)
+        //        .Take(5)
+        //        .ProjectTo<CarsWithTheirListOfPartsDto>()
+        //        .ToArray();
+
+        //    foreach (var car in cars)
+        //    {
+        //        car.PartsDto = car.PartsDto
+        //            .OrderByDescending(p => p.Price)
+        //            .ToArray();
+        //    }
+
+        //    XmlSerializer xmlSerializer = new XmlSerializer(typeof(CarsWithTheirListOfPartsDto[]), new XmlRootAttribute("cars"));
+
+        //    var sb = new StringBuilder();
+        //    var namespaces = new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty });
+
+        //    xmlSerializer.Serialize(new StringWriter(sb), cars, namespaces);
+
+        //    return sb.ToString().TrimEnd();
+        //}
+
         public static string GetTotalSalesByCustomer(CarDealerContext context)
         {
             var customers = context.Customers
