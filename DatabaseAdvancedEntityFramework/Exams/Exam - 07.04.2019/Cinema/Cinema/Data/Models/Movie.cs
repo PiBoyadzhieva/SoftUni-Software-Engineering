@@ -19,6 +19,7 @@
         [Required]
         public TimeSpan Duration { get; set; }
 
+        [Required]
         [Range(1, 10)]
         public double Rating  { get; set; }
 

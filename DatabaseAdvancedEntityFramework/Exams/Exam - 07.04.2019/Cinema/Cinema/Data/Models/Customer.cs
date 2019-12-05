@@ -20,7 +20,7 @@
         public int Age { get; set; }
 
         [Required]
-        [Range(0.01, double.MaxValue)]
+        [Range(typeof(decimal), "0.01", "79228162514264337593543950335")]
         public decimal Balance { get; set; }
 
         public ICollection<Ticket> Tickets { get; set; } = new HashSet<Ticket>();

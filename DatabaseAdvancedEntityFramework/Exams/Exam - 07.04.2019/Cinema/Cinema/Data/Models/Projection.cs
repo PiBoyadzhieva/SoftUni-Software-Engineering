@@ -16,9 +16,9 @@
         [Required]
         public int HallId  { get; set; }
 
-        [Required]
         public Hall Hall { get; set; }
 
+        [Required]
         public DateTime DateTime { get; set; }
 
         public ICollection<Ticket> Tickets { get; set; } = new HashSet<Ticket>();

@@ -7,7 +7,7 @@
         public int Id { get; set; }
 
         [Required]
-        [Range(0.01, double.MaxValue)]
+        [Range(typeof(decimal), "0.01", "79228162514264337593543950335")]
         public decimal Price { get; set; }
 
         [Required]
